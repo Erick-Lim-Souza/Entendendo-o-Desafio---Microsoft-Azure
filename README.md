@@ -57,6 +57,6 @@ Durante o desafio, foram realizados os seguintes passos:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Erick de Lima Souza**  
-DIO Campus Expert | Entusiasta em Cloud, IA e Desenvolvimento Full Stack
+DIO Campus Expert, Entusiasta em Cloud, IA e Desenvolvimento Full Stack, 📍 Supervisor de Suporte Técnico N3, 💻 Estudante de Ciência da Computação | Graduado em CST DevOps
 
 ---
