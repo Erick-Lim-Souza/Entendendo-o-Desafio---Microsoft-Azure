@@ -50,7 +50,7 @@ Durante o desafio, foram realizados os seguintes passos:
 - [Documentação Oficial do Azure](https://learn.microsoft.com/azure)
 - [Portal do Azure](https://portal.azure.com/)
 - [Azure for Students – Criar Conta Gratuita](https://azure.microsoft.com/pt-br/free/students/)
-- Trilha de Aprendizado DIO
+- [Trilha de Aprendizado DIO](https://www.dio.me/bootcamp/microsoft-50-anos-computacao-em-nuvem-com-azure?ref=WXGX22ZC2R)
 
 ---
 
